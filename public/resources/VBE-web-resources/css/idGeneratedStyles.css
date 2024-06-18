@@ -1,0 +1,389 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	/*margin:0;*/
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	/*margin-bottom:-4px;*/
+	margin-top:4px;
+}
+td.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#618d3d;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#618d3d;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#618d3d;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#618d3d;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Adobe Arabic", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.captions {
+	color:#000000;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:7px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.192;
+	margin-bottom:4px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+	border-width:1px;
+	/*margin-bottom:-1px;*/
+	margin-left:auto;
+	margin-top:1px;
+}
+td.CellOverride-1 {
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:0px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	background-color:#ffffff;
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:9px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:9px;
+	vertical-align:middle;
+}
+td.CellOverride-3 {
+	background-color:#769950;
+	border-bottom-color:#ffffff;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-4 {
+	background-color:#dfebd4;
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-5 {
+	border-bottom-color:#ffffff;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:9px;
+	vertical-align:top;
+}
+td.CellOverride-6 {
+	background-color:#eff5ea;
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	vertical-align:middle;
+}
+td.CellOverride-7 {
+	background-color:#dfebd4;
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	vertical-align:middle;
+}
+td.CellOverride-8 {
+	border-bottom-color:#ffffff;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#618d3d;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:9px;
+	vertical-align:top;
+}
+td.CellOverride-9 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#618d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:6px;
+	vertical-align:top;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	text-align:left;
+}
+span.CharOverride-1 {
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	color:#618d3d;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	color:#ffffff;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.CharOverride-4 {
+	color:#6d6e71;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-5 {
+	color:#618d3d;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	color:#ffffff;
+	font-family:"Frutiger LT Std 55 Roman", sans-serif;
+	font-size:5px;
+	font-style:normal;
+	font-weight:normal;
+}
+td._idGenCellOverride-1 {
+	border-right-color:#618d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-2 {
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-3 {
+	border-bottom-color:#618d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-4 {
+	border-right-style:solid;
+	border-right-width:1px;
+}
+col._idGenTableRowColumn-1 {
+	width:155px;
+}
+col._idGenTableRowColumn-2 {
+	width:14px;
+}
+col._idGenTableRowColumn-3 {
+	width:22px;
+}
+tr._idGenTableRowColumn-4 {
+	min-height:92px;
+}
+tr._idGenTableRowColumn-5 {
+	min-height:15px;
+}
+tr._idGenTableRowColumn-6 {
+	min-height:16px;
+}
+tr._idGenTableRowColumn-7 {
+	min-height:10px;
+}
+tr._idGenTableRowColumn-8 {
+	height:10px;
+}
+tr._idGenTableRowColumn-9 {
+	min-height:13px;
+}
+#_idContainer008 {
+	display:inline-block;
+	height:211px;
+	position:relative;
+	width:155px;
+}
+img._idGenObjectAttribute-1 {
+	height:69px;
+	width:102px;
+}
+img._idGenObjectAttribute-2 {
+	height:75px;
+	width:125px;
+}
+img._idGenObjectAttribute-3 {
+	height:127px;
+	width:133px;
+}
+img._idGenObjectAttribute-4 {
+	height:153px;
+	width:128px;
+}
+img._idGenObjectAttribute-5 {
+	height:176px;
+	width:133px;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#ffffff;
+	border-bottom-left-radius:12px;
+	border-bottom-right-radius:12px;
+	border-top-left-radius:12px;
+	border-top-right-radius:12px;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
