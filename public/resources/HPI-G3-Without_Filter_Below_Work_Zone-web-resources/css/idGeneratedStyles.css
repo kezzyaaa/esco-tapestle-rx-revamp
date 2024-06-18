@@ -1,0 +1,610 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	/*margin:0;*/
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-top:4px;
+}
+td.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+td.Header-Row-Left {
+	background-color:#a3ca83;
+	border-bottom-color:#79aa52;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#79aa52;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#79aa52;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#79aa52;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.Header-Row-Right {
+	background-color:#a3ca83;
+	border-bottom-color:#79aa52;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#79aa52;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#79aa52;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:middle;
+}
+td.Table-Rows {
+	background-color:#f4f8f1;
+	border-bottom-color:#608d3d;
+	border-bottom-width:1px;
+	border-left-color:#608d3d;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.Table-Rows-Heading {
+	background-color:#a3ca83;
+	border-bottom-color:#ffffff;
+	border-bottom-width:1px;
+	border-left-color:#79aa52;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-width:1px;
+	border-top-color:#ffffff;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.Table-Rows-SubHeading {
+	background-color:#c7d0b4;
+	border-bottom-color:#608d3d;
+	border-bottom-width:1px;
+	border-left-color:#608d3d;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:6px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+p.Inside-pages_TABLE_text {
+	color:#5f6062;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.077;
+	margin-bottom:4px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Inside-pages_TABLE_text-Head {
+	color:#ffffff;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.5;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Inside-pages_TABLE_text-RowHeading {
+	color:#ffffff;
+	font-family:"Frutiger LT Std 55 Roman", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.077;
+	margin-bottom:4px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Inside-pages_TABLE_text-RowSubHeading {
+	color:#333;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.077;
+	margin-bottom:4px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Adobe Arabic", serif;
+	font-size:1.2em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+	border-width:1px;
+	margin-left:auto;
+	margin-top:0px;
+}
+td.CellOverride-1 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	padding-left:3px;
+}
+td.CellOverride-3 {
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td.CellOverride-4 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-5 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-6 {
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+}
+td.CellOverride-7 {
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+}
+td.CellOverride-8 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-9 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-10 {
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-style:solid;
+}
+td.CellOverride-11 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-12 {
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-top-style:solid;
+}
+td.CellOverride-13 {
+	background-color:#a3ca83;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+}
+td.CellOverride-14 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-15 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-16 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-17 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-18 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-19 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+}
+td.CellOverride-20 {
+	background-color:#a3ca83;
+	border-bottom-style:solid;
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+}
+td.CellOverride-21 {
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-style:solid;
+}
+td.CellOverride-22 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-23 {
+	border-bottom-style:solid;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:solid;
+}
+td.CellOverride-24 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+td.CellOverride-25 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#608d3d;
+	border-left-style:solid;
+	border-right-color:#608d3d;
+	border-top-color:#608d3d;
+	border-top-style:solid;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+p.ParaOverride-1 {
+	text-align:left;
+}
+span.CharOverride-1 {
+	color:#608d3d;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1.2em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:1em;
+	color: #333;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-3 {
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:4px;
+	font-style:normal;
+	font-weight:300;
+	vertical-align:super;
+}
+span.CharOverride-4 {
+	color:#ffffff;
+}
+span.CharOverride-5 {
+	color:#ffffff;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"Zapf Dingbats", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-size:58%;
+	vertical-align:super;
+}
+td._idGenCellOverride-1 {
+	border-right-color:#79aa52;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-2 {
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-3 {
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-top-color:#79aa52;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-4 {
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#79aa52;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+td._idGenCellOverride-5 {
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-6 {
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+}
+td._idGenCellOverride-7 {
+	border-left-color:#ffffff;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#608d3d;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+td._idGenCellOverride-8 {
+	border-bottom-color:#608d3d;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-right-color:#ffffff;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+col._idGenTableRowColumn-1 {
+	/*width:108px;*/
+}
+col._idGenTableRowColumn-2 {
+	/*width:104px;*/
+}
+col._idGenTableRowColumn-3 {
+	/*width:72px;*/
+}
+tr._idGenTableRowColumn-4 {
+	min-height:27px;
+}
+tr._idGenTableRowColumn-5 {
+	min-height:12px;
+}
+tr._idGenTableRowColumn-6 {
+	min-height:33px;
+}
+tr._idGenTableRowColumn-7 {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-8 {
+	min-height:18px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
