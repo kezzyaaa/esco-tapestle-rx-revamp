@@ -142,7 +142,7 @@ body {
   font-weight: 700;
   border-radius: 40px;
   text-decoration: none;
-  color: #A4CE83;
+  color: #99b5cc;
 }
 
 @media only screen and (max-width: 767px) {

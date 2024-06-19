@@ -13504,7 +13504,7 @@ img {
   position: absolute;
   bottom: -10px;
   height: 2px;
-  background: #A4CE83;
+  background: #99b5cc;
   left: 0;
   margin-left: 0;
   transition: all 0.5s;
@@ -13539,7 +13539,7 @@ img {
 }
 #sidebar h1 .logo span {
   font-size: 14px;
-  color: #a4ce83;
+  color: #99b5cc;
   display: block;
 }
 #sidebar .dropdown-toggle2.dropdown-toggle::after {
@@ -13566,7 +13566,7 @@ img {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 #sidebar ul li a i {
-  color: #a4ce83;
+  color: #99b5cc;
   width: 2em;
 }
 #sidebar ul li a:hover {

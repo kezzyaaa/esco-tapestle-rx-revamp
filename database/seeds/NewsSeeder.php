@@ -616,9 +616,9 @@ class NewsSeeder extends Seeder
                 <p class="text-justify">In this project, Esco designed the HPI-IS to allow full ATMP handling and the filling process. </p>
                 <p class="text-justify">With this advanced and innovative equipment solution, Esco enables companies to achieve the biotherapeutics of tomorrow. </p>
 
-                <p class="text-justify">For more information please visit <a href="/" style="color: #A4CE83;"><strong>www.escopharma.com.</strong></a> </p>
+                <p class="text-justify">For more information please visit <a href="/" style="color: #99b5cc;"><strong>www.escopharma.com.</strong></a> </p>
 
-                <p class="text-center"><a href="http://www.escoglobal.com/products/download/2020 January - HPI-Custom (Eso Pharma and Esco Global).pdf" class="btn pharma-btn" target="_blank" rel="noopener noreferrer" style="padding:10px; background-color:#A4CE83;border:none !important; color: #fff;">Download PDF File</a></p>
+                <p class="text-center"><a href="http://www.escoglobal.com/products/download/2020 January - HPI-Custom (Eso Pharma and Esco Global).pdf" class="btn pharma-btn" target="_blank" rel="noopener noreferrer" style="padding:10px; background-color:#99b5cc;border:none !important; color: #fff;">Download PDF File</a></p>
 
 
                 <style type="text/css">
@@ -1005,7 +1005,7 @@ class NewsSeeder extends Seeder
 
            <p class="text-justify">For more information please visit <a href="/"><strong>www.escopharma.com.</strong></a> </p>
 
-           <p class="text-center"><a href="http://www.escoglobal.com/products/download/Esco Pharma - Filling Line Feature Paper.pdf" class="btn pharma-btn" target="_blank" rel="noopener noreferrer" style="padding:10px; background-color:#A4CE83;border:none !important; color: #fff;">Download PDF File</a></p>
+           <p class="text-center"><a href="http://www.escoglobal.com/products/download/Esco Pharma - Filling Line Feature Paper.pdf" class="btn pharma-btn" target="_blank" rel="noopener noreferrer" style="padding:10px; background-color:#99b5cc;border:none !important; color: #fff;">Download PDF File</a></p>
 
 
            <style type="text/css">

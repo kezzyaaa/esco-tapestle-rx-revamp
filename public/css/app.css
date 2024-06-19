@@ -2564,6 +2564,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   display: inline-block;
   background: #333;
   cursor: pointer;
+  margin-right: 5px;
 }
 
 .classy-navbar-toggler .navbarToggler span {
@@ -3504,8 +3505,8 @@ img {
 /* :: 4.0 Search Wrapper */
 .search-mobile {
   color: #fff;
-  /* border: 1px solid #a4ce83; */
-  background: #a4ce83;
+  /* border: 1px solid #99b5cc; */
+  background: #99b5cc;
   margin-right: 0.4em;
   height: 37px;
   font-size: 1.5em;

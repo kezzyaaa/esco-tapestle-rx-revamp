@@ -34,7 +34,7 @@ td.Gen-Specs {
 	vertical-align:top;
 }
 td.Header-Row-Left {
-	background-color:#A4CE83;
+	background-color:#99b5cc;
 	border-bottom-color:#79aa52;
 	border-bottom-style:solid;
 	border-bottom-width:1px;
@@ -54,7 +54,7 @@ td.Header-Row-Left {
 	vertical-align:middle;
 }
 td.Header-Row-Middle {
-	background-color:#A4CE83;
+	background-color:#99b5cc;
 	border-bottom-color:#79aa52;
 	border-bottom-style:solid;
 	border-bottom-width:1px;
@@ -74,7 +74,7 @@ td.Header-Row-Middle {
 	vertical-align:middle;
 }
 td.Header-Row-Right {
-	background-color:#A4CE83;
+	background-color:#99b5cc;
 	border-bottom-color:#79aa52;
 	border-bottom-style:solid;
 	border-bottom-width:1px;
@@ -95,13 +95,13 @@ td.Header-Row-Right {
 }
 td.Table-Rows {
 	background-color:#f4f8f1;
-	border-bottom-color:#A4CE83;
+	border-bottom-color:#99b5cc;
 	border-bottom-width:1px;
-	border-left-color:#A4CE83;
+	border-left-color:#99b5cc;
 	border-left-width:1px;
-	border-right-color:#A4CE83;
+	border-right-color:#99b5cc;
 	border-right-width:1px;
-	border-top-color:#A4CE83;
+	border-top-color:#99b5cc;
 	border-top-width:1px;
 	padding-bottom:6px;
 	padding-left:6px;
@@ -110,7 +110,7 @@ td.Table-Rows {
 	vertical-align:middle;
 }
 td.Table-Rows-Heading {
-	background-color:#A4CE83;
+	background-color:#99b5cc;
 	border-bottom-color:#ffffff;
 	border-bottom-width:1px;
 	border-left-color:#79aa52;
@@ -292,14 +292,14 @@ p.Basic-Paragraph {
 	widows:1;
 }
 td.CellOverride-1 {
-	border-bottom-color:#A4CE83;
+	border-bottom-color:#99b5cc;
 	border-bottom-width:1px;
 	border-left-width:0px;
 	border-top-width:0px;
 }
 td.CellOverride-2 {
-	border-left-color:#A4CE83;
-	border-top-color:#A4CE83;
+	border-left-color:#99b5cc;
+	border-top-color:#99b5cc;
 	border-top-width:1px;
 }
 td.CellOverride-3 {
@@ -310,7 +310,7 @@ td.CellOverride-4 {
 	border-right-width:1px;
 }
 td.CellOverride-5 {
-	border-left-color:#A4CE83;
+	border-left-color:#99b5cc;
 }
 td.CellOverride-6 {
 	border-bottom-style:solid;
@@ -370,9 +370,9 @@ td.CellOverride-15 {
 	border-top-style:solid;
 }
 td.CellOverride-16 {
-	border-bottom-color:#A4CE83;
+	border-bottom-color:#99b5cc;
 	border-bottom-width:1px;
-	border-left-color:#A4CE83;
+	border-left-color:#99b5cc;
 }
 td.CellOverride-17 {
 	border-bottom-style:solid;
@@ -418,7 +418,7 @@ td._idGenCellOverride-1 {
 	border-right-width:1px;
 }
 td._idGenCellOverride-2 {
-	border-bottom-color:#A4CE83;
+	border-bottom-color:#99b5cc;
 	border-bottom-style:solid;
 	border-bottom-width:1px;
 	border-right-color:#ffffff;
@@ -426,7 +426,7 @@ td._idGenCellOverride-2 {
 	border-right-width:1px;
 }
 td._idGenCellOverride-3 {
-	border-bottom-color:#A4CE83;
+	border-bottom-color:#99b5cc;
 	border-bottom-style:solid;
 	border-bottom-width:1px;
 }
@@ -436,12 +436,12 @@ td._idGenCellOverride-4 {
 	border-right-width:1px;
 }
 td._idGenCellOverride-5 {
-	border-top-color:#A4CE83;
+	border-top-color:#99b5cc;
 	border-top-style:solid;
 	border-top-width:1px;
 }
 td._idGenCellOverride-6 {
-	border-right-color:#A4CE83;
+	border-right-color:#99b5cc;
 	border-right-style:solid;
 	border-right-width:1px;
 }
