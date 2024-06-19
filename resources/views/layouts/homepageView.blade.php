@@ -23,6 +23,17 @@
 
 </body>
 @include('includes/scripts')
+<script>
+document.querySelectorAll('.pin').forEach(pin => {
+    pin.addEventListener('mouseenter', function() {
+        this.querySelector('.tooltiptext').hidden = false;
+    });
+    pin.addEventListener('mouseleave', function() {
+        this.querySelector('.tooltiptext').hidden = true;
+    });
+});
+</script>
+
 </html>
 
 

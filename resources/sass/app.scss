@@ -2765,7 +2765,7 @@ a.close-popup:hover{
         width: 2px;
         position: absolute;
         left: 2px;
-        background-color: #48AFB5;
+        background-color: #00467F;
     }
 }
 
@@ -3609,7 +3609,7 @@ p.news-date{
                 //     position: absolute;
                 //     right: 2px;
                 //     top: 0;
-                //     background-color: #48AFB5;
+                //     background-color: #00467F;
                 // }
             }
             @media #{$breakpoint-xs}{
@@ -3673,7 +3673,7 @@ p.news-date{
     }
 
     .featured-section span {
-      color: #48AFB5;
+      color: #00467F;
     }
 
     .featured-section{
@@ -3694,7 +3694,7 @@ p.news-date{
             //     width: 2px;
             //     position: absolute;
             //     left: 2px;
-            //     background-color: #48AFB5;
+            //     background-color: #00467F;
             // }
         }
 
@@ -3711,7 +3711,7 @@ p.news-date{
 }
 
 #stock-units-tab-content{
-    border: 1px solid #48AFB5;
+    border: 1px solid #00467F;
 }
 
 .stock-units-tab-content .continent-img{
@@ -3738,7 +3738,7 @@ p.news-date{
 
 .stock-units-tab-content .number-of-proj-card h2{
     font-size: 5em;
-    color:#48AFB5;
+    color:#00467F;
     line-height: 1em;
     @media #{$breakpoint-md}{
         font-size: 4em;
@@ -6139,7 +6139,7 @@ footer p{
 }
 
 .events-date-container {
-  background-color: #48AFB5; height: 10vh; text-align: center; display: flex; align-items: center; justify-content: center; letter-spacing: 2px;
+  background-color: #00467F; height: 10vh; text-align: center; display: flex; align-items: center; justify-content: center; letter-spacing: 2px;
 }
 .events-date-container > p {
   color: #FFF;
@@ -6199,7 +6199,7 @@ footer p{
   width: 100%;
 }
 .tech-and-tools-card-summary i {
-  color: #48AFB5;
+  color: #00467F;
 }
 .tech-and-tools-card-summary span {
   color: #b5b5b5;
@@ -6211,7 +6211,7 @@ footer p{
   bottom  : 0;
   height  : 1px;
   width   : 95%;  /* or 100px */
-  border-bottom:1px solid #48AFB5;
+  border-bottom:1px solid #00467F;
 }
 
 .teal-color {

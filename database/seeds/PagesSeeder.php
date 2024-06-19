@@ -31,7 +31,7 @@ class PagesSeeder extends Seeder
       'banner_img' => 'global-factories-new-min.png',
       'section' => 'about',
       'content' => '
-      <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+      <h3 style="color: #00467F">Lorem Ipsum</h3>
       <p style="margin-bottom: 1rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
 
       <div class="row" style="margin-bottom: 1rem;">
@@ -51,7 +51,7 @@ class PagesSeeder extends Seeder
 
       <p style="margin-bottom: 1rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
 
-      <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+      <h3 style="color: #00467F">Lorem Ipsum</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
 
       <div class="row" style="padding-bottom: 1rem;">
@@ -66,7 +66,7 @@ class PagesSeeder extends Seeder
         </div>
       </div>
 
-      <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+      <h3 style="color: #00467F">Lorem Ipsum</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
       ',
       'layout' => 'pageWithSidebarView',
@@ -87,17 +87,17 @@ class PagesSeeder extends Seeder
            'content' => '
 
            <div class="container" style="text-align: justify">
-             <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+             <h3 style="color: #00467F">Lorem Ipsum</h3>
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
              <br />
              <br />
-             <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+             <h3 style="color: #00467F">Lorem Ipsum</h3>
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
              <br />
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
              <br />
              <br />
-             <h3 style="color: #48AFB5">Lorem Ipsum</h3>
+             <h3 style="color: #00467F">Lorem Ipsum</h3>
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque tortor sed nisi fringilla, sed lacinia turpis euismod. Nulla facilisi. Donec interdum urna vitae venenatis luctus. Vestibulum in accumsan erat, sit amet tristique eros. Mauris ac nulla id tellus accumsan posuere in a risus.</p>
              <br />
              <div style="padding-left: 1em; padding-right: 1em;">

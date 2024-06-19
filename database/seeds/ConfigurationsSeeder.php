@@ -22,9 +22,9 @@ class ConfigurationsSeeder extends Seeder
     {
 		$Configurations = [
 		    [
-                'domain' => 'escopharma.com',
+                'domain' => 'escotapestlerx.com',
                 'language' => 'en',
-                'meta_title' => 'Esco Pharma | Home',
+                'meta_title' => 'EscoTaPestlrx | Home',
                 'meta_description' => 'Esco Pharma is a leading manufacturer of containment and isolation systems with a global footprint spanning US, Europe and Asia.',
                 'meta_keywords' => 'Aseptic Filling Line Isolator, Active Open Restricted Access Barrier System, Open Restricted Access Barrier System, RABS, oRABS, open RABS, closed RABS, closed Restricted Access Barrier System, cRABS, Aseptic Processing on Pharmaceutical Dosage Forms, Aseptic Process Validation, Aseptic Isolators, Aseptic Pharmaceutical Manufacturing, Potent Filling Line Isolator, Potent Formulation, General Processing Platform Isolator, Aseptic Containment Isolator',
                 'meta_author' => 'Esco Micro Pte Ltd',

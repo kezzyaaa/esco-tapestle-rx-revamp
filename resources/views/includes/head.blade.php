@@ -19,7 +19,7 @@
 
      <link rel="canonical" href="@yield('canonical',url()->current())">
 
-    <meta property="og:title" content="@yield('og_title','Esco Pharma')">
+    <meta property="og:title" content="@yield('og_title','EscoTaPestlrx')">
     <meta property="og:description" content="@yield('og_description',$config->meta_description)">
     <meta property="og:image" content="@yield('og_image',asset('images/bg-img/global-factory-network-home-slider-min.jpg'))">
     <meta property="og:image:width" content="1200" />

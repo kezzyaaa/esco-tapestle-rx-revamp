@@ -30,7 +30,7 @@
 
 .classy-btn,
 .classy-nav-container.box-skins .classynav>ul>li {
-	background-color: #48AFB5
+	background-color: #00467F
 }
 
 .classy-nav-container * {
@@ -47,7 +47,7 @@
 .classy-nav-container a:focus,
 .classy-nav-container a:hover {
 	transition-duration: .5s;
-	color: #48AFB5
+	color: #00467F
 }
 
 .classy-navbar .nav-brand,
@@ -66,7 +66,7 @@
 }
 
 .classy-nav-container.box-skins .classynav>ul>li>a {
-	color: #48AFB5
+	color: #00467F
 }
 
 .justify-content-between {
@@ -200,7 +200,7 @@
     left: 5px;
     top: -2px;
     transform: rotate(90deg);
-    color: #48AFB5;
+    color: #00467F;
     padding-left: 5px;
     /* top: 5px; */
     /* -webkit-transition-duration: 0.5s;
@@ -678,7 +678,7 @@
 }
 
 .breakpoint-on .classynav>ul>li>a {
-	background-color: #48AFB5;
+	background-color: #00467F;
 	border-bottom: 1px solid rgba(255, 255, 255, .5)
 }
 
@@ -708,7 +708,7 @@
 
 .breakpoint-on .classynav ul li.has-down.active>a:after,
 .breakpoint-on .classynav ul li.megamenu-item.active>a:after {
-	color: #48AFB5
+	color: #00467F
 }
 
 .dark.classy-nav-container a {

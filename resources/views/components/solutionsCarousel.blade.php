@@ -30,7 +30,7 @@
 
                                 @foreach($row_items_1 as $row_value_1)
                                   <div class="col-lg-3 col-6 prod-single">
-                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#48AFB5, #FFFFFF); border-radius: 5%; border: 0;">
+                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#00467F, #FFFFFF); border-radius: 5%; border: 0;">
                                       <div class="product-card-img" style="text-align: center;">
                                           <div class="p-3">
                                               <a href=""><img data-src="/images/app-icons/TPRX_application icons-0{{$row_value_1}}.svg" class="product-img lazy" alt="" title=""></a>
@@ -59,7 +59,7 @@
 
                                 @foreach($row_items_2 as $row_value_2)
                                   <div class="col-lg-3 col-6 prod-single">
-                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#48AFB5, #FFFFFF); border-radius: 5%; border: 0;">
+                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#00467F, #FFFFFF); border-radius: 5%; border: 0;">
                                       <div class="product-card-img" style="text-align: center;">
                                           <div class="p-3">
                                               <a href=""><img data-src="/images/app-icons/TPRX_application icons-{{$row_value_2}}.svg" class="product-img lazy" alt="" title=""></a>
@@ -88,7 +88,7 @@
 
                                 @foreach($row_items_3 as $row_value_3)
                                   <div class="col-lg-3 col-6 prod-single">
-                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#48AFB5, #FFFFFF); border-radius: 5%; border: 0;">
+                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#00467F, #FFFFFF); border-radius: 5%; border: 0;">
                                       <div class="product-card-img" style="text-align: center;">
                                           <div class="p-3">
                                               <a href=""><img data-src="/images/app-icons/TPRX_application icons-{{$row_value_3}}.svg" class="product-img lazy" alt="" title=""></a>
@@ -116,7 +116,7 @@
                               <div class="row" style="margin-bottom: 1rem;">
 
                                   <div class="col-lg-3 col-6 prod-single">
-                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#48AFB5, #FFFFFF); border-radius: 5%; border: 0;">
+                                    <div class="product-card mt-4" style="box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); background-image: linear-gradient(#00467F, #FFFFFF); border-radius: 5%; border: 0;">
                                       <div class="product-card-img" style="text-align: center;">
                                           <div class="p-3">
                                               <a href=""><img data-src="/images/app-icons/TPRX_application icons-25.svg" class="product-img lazy" alt="" title=""></a>

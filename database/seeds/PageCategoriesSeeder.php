@@ -30,7 +30,7 @@ class PageCategoriesSeeder extends Seeder
     	$pageCatDatas = [
             ['slug' => 'about',
             'title' => 'About',
-            'sidebar_title' => 'This is <span style="color: #48AFB5">Esco TapestleRx</span>',
+            'sidebar_title' => 'This is <span style="color: #00467F">Esco TapestleRx</span>',
             'is_activated' => 1],
 
 

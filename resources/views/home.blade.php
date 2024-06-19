@@ -37,10 +37,23 @@
 
                         <div class="col-lg-6 col-md-12 col-sm-12 d-flex align-items-center justify-content-center" style="background: #00467f; height: 50vh;">
                             <div class="d-flex flex-column align-items-center" style="max-width: 600px; width: 100%;">
-                                <button class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE">Sign up for a Free Seminar</button>
-                                <button class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE">Request for Quotation</button>
-                                <button class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE">View Catalogues</button>
-                                <button class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE">Recommended Topics</button>
+                                <a class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE; color: white">
+
+                                    Sign up for a Free Seminar
+                                </a>
+
+                                <a class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE; color: white">
+
+                                    Request for quotation
+                                </a>
+                                <a class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE; color: white">
+
+                                    View Catalogues
+                                </a>
+                                <a class="btn btn-primary my-2" style="border-radius: 50px; padding: 10px 5%; width: 65%; margin: 0 auto; display: block; background-color: #1E73BE; color: white">
+
+                                    Recommended Topics
+                                </a>
                             </div>
                         </div>
 
@@ -70,415 +83,55 @@
                     <p class="m-0 p-2 w-100">We specialize in healthcare facility and laboratory design and construction, providing world class
                         facility brought in line with international cGMP standards.
                     </p>
-                    <a style="background-color: #00467f; color: #FFF;" class="btn btn-primary p-2 flex-shrink-1">Learn More</a>
+                    <a style="background-color: #99b5cc; color: #FFF; border-radius: 10px" class="btn btn-primary flex-shrink-1">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="row pt-md-3 pt-3 px-4 px-sm-0">
-
+                <!-- Card 1 -->
                 <div class="col-lg-4 col-md-6 pt-4 wow fadeInUp" data-wow-delay="0.50s" style="height: 50vh;">
-                    <a href="#" class="text-decoration-none">
-                        <div class="card tech-and-tools-card custom-light-box-shadow border-0" style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative;">
-                            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" class="img-fluid" style="height: 100%; width: 100%; object-fit: cover;">
-                            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.25rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px;">
-                                Pharmacy Solutions
-                            </div>
-                            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center;">
-                                Innovations to improve compounding medication safety and pharmacy workflow.
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-
-                <div class="col-lg-4 col-md-6 pt-4 wow fadeInUp" data-wow-delay="0.50s" style="height: 50vh;">
-                    <a href="#" class="text-decoration-none">
-                        <div class="card tech-and-tools-card custom-light-box-shadow border-0" style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative;">
-                            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" class="img-fluid" style="height: 100%; width: 100%; object-fit: cover;">
-                            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.10rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px;">
-                                Conceptual Design &
-                                Process Engineering
-                            </div>
-                            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center;">
-                                Unsurpassed product quality and professional
-                                installation of laboratory casework, isolators,
-                                specialized work surfaces, pharmacy
-                                equipment and accessories, hospital
-                                development, and facades.
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-md-6 pt-4 wow fadeInUp" data-wow-delay="0.50s" style="height: 50vh;">
-                    <a href="#" class="text-decoration-none">
-                        <div class="card tech-and-tools-card custom-light-box-shadow border-0" style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative;">
-                            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" class="img-fluid" style="height: 100%; width: 100%; object-fit: cover;">
-                            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.25rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px;">
-                                Design & Build
-                            </div>
-                            <div style="position: fixed; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center;">
-                                Architectural solutions providing a complete
-                                building management system linking all
-                                discrete processes harmonized into 1 system
-                            </div>
-                        </div>
-                    </a>
-                </div>
+    <a href="#" class="text-decoration-none">
+        <div style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative; box-shadow: 0 4px 8px rgba(0,0,0,0.12);">
+            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.25rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px; height: 55px;">
+                Pharmacy Solutions
+            </div>
+            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" style="height: calc(100% - 10px); width: 100%; object-fit: cover;">
+            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center; max-height: 90px; overflow-y: auto;">
+                Innovations to improve compounding medication safety and pharmacy workflow.
             </div>
         </div>
+    </a>
+</div>
 
-        <!--   <div class="h-100 py-5 d-flex flex-column justify-content-center">
-            <div class=" wow fadeInUp">
-                <h3><span class="teal-color">Events</span> Calendar</h3>
-                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate lectus eu arcu hendrerit mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate lectus eu arcu hendrerit mollis.</p>
+<div class="col-lg-4 col-md-6 pt-4 wow fadeInUp" data-wow-delay="0.50s" style="height: 50vh;">
+    <a href="#" class="text-decoration-none">
+        <div style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative; box-shadow: 0 4px 8px rgba(0,0,0,0.12);">
+            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.2 rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px; height: 55px;">
+                Conceptual Design & Process Engineering
             </div>
-   
-            <div class="events-calendar-slider owl-carousel d-flex align-items-center">
-       
-                <div class="container">
-                    <div class="row pt-4">
-                        <div class="col-xl-12 col-md-12 col-lg-12 pt-2">
-                            <div class="card containment-contorls-card shadow-sm border-0">
-                                <div class="card-body p-4">
-                                    <div class="row" style="justify-content: center;">
-                                        <div class="col-lg-6 row" style="padding-left: 7.5px; padding-right: 7.5px; margin-top: 1em">
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" style="height: calc(100% - 10px); width: 100%; object-fit: cover;">
+            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center; max-height: 90px; /* overflow-y: auto; */ font-size: 12px">
+                Unsurpassed product quality and professional installation of laboratory casework, isolators, specialized work surfaces, pharmacy equipment and accessories, hospital development, and facades.
+            </div>
+        </div>
+    </a>
+</div>
 
-                                        <div class="col-lg-6 row" style="padding-left: 7.5px; padding-right: 7.5px; margin-top: 1em">
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-       
-
-                <div class="container">
-                    <div class="row pt-4">
-                        <div class="col-xl-12 col-md-12 col-lg-12 pt-2">
-                            <div class="card containment-contorls-card shadow-sm border-0">
-                                <div class="card-body p-4">
-                                    <div class="row" style="justify-content: center;">
-                                        <div class="col-lg-6 row" style="padding-left: 7.5px; padding-right: 7.5px; margin-top: 1em">
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 row" style="padding-left: 7.5px; padding-right: 7.5px; margin-top: 1em">
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-12">
-                                                <div class="col-12 row p-0" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); margin: .5em;">
-                                                    <div class="col-3 events-date-container">
-                                                        <p>AUG<br />01-02</p>
-                                                    </div>
-                                                    <div class="col-9 events-summary-container">
-                                                        <p><strong>Lorem ipsum dolor sit amet, consectetur</strong> <br /><span class="fa fa-map-marker" aria-hidden="true"></span>&nbsp;Lorem Ipsum Dolor Sit Amet</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
+<div class="col-lg-4 col-md-6 pt-4 wow fadeInUp" data-wow-delay="0.50s" style="height: 50vh;">
+    <a href="#" class="text-decoration-none">
+        <div style="height: 100%; width: 100%; border-radius: 15px; overflow: hidden; position: relative; box-shadow: 0 4px 8px rgba(0,0,0,0.12);">
+            <div style="position: absolute; top: 0; left: 0; right: 0; background: #00467F; padding: 15px; color: white; text-align: center; font-size: 1.25rem; font-weight: bold; border-top-left-radius: 15px; border-top-right-radius: 15px; height: 55px;">
+                Design & Build
+            </div>
+            <img src="/images/featured-products-sample-image.png" alt="ventilation containment" title="ventilation containment" style="height: calc(100% - 10px); width: 100%; object-fit: cover;">
+            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: #FFF; padding: 15px; color: black; text-align: center; max-height: 90px; /* overflow-y: auto; */">
+                Architectural solutions providing a complete building management system linking all discrete processes harmonized into 1 system.
+            </div>
+        </div>
+    </a>
+</div>
 
             </div>
-        </div> -->
-
-        <!--   <div class="h-100 py-5 d-flex flex-column justify-content-center">
-            <div class=" wow fadeInUp">
-                <h3><span class="teal-color">Esco TapestleRx</span> News</h3>
-                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate lectus eu arcu hendrerit mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate lectus eu arcu hendrerit mollis.</p>
-            </div>
-            <div class="container">
-                <div class="row pt-4">
-                    <div class="col-xl-12 col-md-12 col-lg-12 pt-2 news-section">
-                        <div class="card containment-contorls-card shadow-sm border-0">
-                            <div class="card-body p-1">
-                                <div class="row" style="justify-content: center;">
-
-                                    <div class="col-lg-6 row news-container">
-                                        <div class="col-12 news-title-line">
-                                            <div class="float-left">
-                                                <h6>Application Articles</h656>
-                                            </div>
-                                            <div class="float-right">
-                                                <a href="#"><u>VIEW ALL</u>&nbsp;<i class="fa fa-eye"></i></a>
-                                            </div>
-                                        </div>
-                                        <hr>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-6 row news-container">
-                                        <div class="col-12 news-title-line">
-                                            <div class="float-left">
-                                                <h6>Corporate Press Releases</h6>
-                                            </div>
-                                            <div class="float-right">
-                                                <a href="#"><u>VIEW ALL</u>&nbsp;<i class="fa fa-eye"></i></a>
-                                            </div>
-                                        </div>
-                                        <hr>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-6 row news-container">
-                                        <div class="col-12 news-title-line">
-                                            <div class="float-left">
-                                                <h6>Project/Customer Highlights</h6>
-                                            </div>
-                                            <div class="float-right">
-                                                <a href="#"><u>VIEW ALL</u>&nbsp;<i class="fa fa-eye"></i></a>
-                                            </div>
-                                        </div>
-                                        <hr>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-6 row news-container">
-                                        <div class="col-12 news-title-line">
-                                            <div class="float-left">
-                                                <h6>Event Highlights</h6>
-                                            </div>
-                                            <div class="float-right">
-                                                <a href="#"><u>VIEW ALL</u>&nbsp;<i class="fa fa-eye"></i></a>
-                                            </div>
-                                        </div>
-                                        <hr>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-6 pt-4 fadeInUp" data-wow-delay="0.50s">
-                                            <div class="custom-light-box-shadow news-card-shadow">
-                                                <div class="tech-and-tools-card-image">
-                                                    <img data-src="/images/sample-img.png" alt="" title="" class="img-fluid lazy">
-                                                </div>
-                                                <div class="card-body tech-and-tools-card-summary">
-                                                    <i class="fa fa-calendar" aria-hidden="true">&nbsp;</i><span>09-09-21</span>&nbsp;&nbsp;<i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Singapore</span>
-                                                    <p class="card-text" style="margin-top: 1em;">
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                    </p>
-                                                    <a href="#">READ MORE <i class="fa fa-caret-right" aria-hidden="true"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div> -->
-
+        </div>
     </div>
 </section>
 
@@ -701,7 +354,7 @@
                                         <div class="cf7_controls-img-details2" style="">
                                             <div id="cf7" class="shadow">
 
-                                                    <div class="opaque solutions-content " style="display: flex;height: 100%; background-color: #48AFB5; align-items: center;  justify-content: center;">
+                                                    <div class="opaque solutions-content " style="display: flex;height: 100%; background-color: #00467F; align-items: center;  justify-content: center;">
                                                          <div>
                                                             <img src="/images/core-img/EscoPharma only REV-min.png" alt="esco pharma solutions" style="top: 50%;width: 85%; position: relative;" class="px-5">
                                                             <p class="text-white mt-4" style="font-weight: 600;">Hover on each topic to learn more</p>
@@ -761,7 +414,7 @@
                 </div>
         </div>
     </div>
-    <div style=" width: 100%; background: #48AFB5;">
+    <div style=" width: 100%; background: #00467F;">
         <div class="container">
             <div class=" py-2 py-sm-5  d-flex flex-column justify-content-center">
                 <div class="row">
@@ -1081,13 +734,25 @@
             <!-- Cta Content -->
             <div class=" pr-5">
                 <a href="#">
-                    <h3><span class="teal-color">Global</span> Reference</h3>
+                    <h3><span class="teal-color">Global</span> Offices</h3>
                 </a>
             </div>
 
             <div class="mt-4  global-reference">
                 <img class="global-reference-map lazy" data-src="/images/misc-img/tprx-map-01.png" alt="global references">
-                <i class="fa fa-map-marker pin rus fa-4x" data-countryname="Russia 3" aria-hidden="true"></i>
+                <i class="fa fa-map-marker pin usa fa-4x" aria-hidden="true">
+                    <div class="tooltiptext" hidden>
+                        <strong>USA</strong><br>
+                        Healthcare Division/Factory 2512<br>
+                        Metroprolitan Dr, Suite 120-B<br>
+                        Feasterville-Trevose, PA 19053-6738<br><br>
+                        <strong>Telephone:</strong> 1 215-322-2155E<br>
+                        <strong>Email:</strong> eti.pharma@escoglobal.com<br>
+                        <strong>Website:</strong> www.escopharma.com
+                    </div>
+                </i>
+
+                </i>
                 <i class="fa fa-map-marker pin jap fa-3x" data-countryname="Japan 6" aria-hidden="true"></i>
                 <i class="fa fa-map-marker pin kor fa-2x" data-countryname="South Korea 7" aria-hidden="true"></i>
                 <i class="fa fa-map-marker pin tai fa-2x" data-countryname="Taiwan 3" aria-hidden="true"></i>
@@ -1132,7 +797,7 @@
                      <i class="fa fa-map-marker pin arg fa-3x" data-countryname="Argentina 1" aria-hidden="true" ></i>
                      <i class="fa fa-map-marker pin chil fa-2x" data-countryname="Chile 2" aria-hidden="true" ></i> -->
 
-                <span class="countrylabel invisible">Tooltip text</span>
+                <!-- <span class="countrylabel invisible">Tooltip text</span> -->
             </div>
 
             <!-- <div class="row mt-3 d-sm-none ">
